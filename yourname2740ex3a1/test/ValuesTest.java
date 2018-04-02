@@ -27,32 +27,32 @@ class ValuesTest {
     }
 
     @Test
-    void sumValuesWhile() {
+    void sumCountValuesWhile() {
         assertEquals(815, values.sumCountValuesWhile());
     }
 
     @Test
-    void sumValuesDoWhile() {
+    void sumCountValuesDoWhile() {
         assertEquals(815, values.sumCountValuesDoWhile());
     }
 
     @Test
-    void sumValuesFor() {
+    void sumCountValuesFor() {
         assertEquals(815, values.sumCountValuesFor());
     }
 
     @Test
-    void sumValuesWhileB() {
+    void sumFilteredValuesWhile() {
         assertEquals(658, values.sumFilteredValuesWhile());
     }
 
     @Test
-    void sumValuesDoWhileB() {
+    void sumFilteredValuesDoWhile() {
         assertEquals(658, values.sumFilteredValuesDoWhile());
     }
 
     @Test
-    void sumValuesForB() {
+    void sumFilteredValuesFor() {
         assertEquals(658, values.sumFilteredValuesFor());
     }
 }
