@@ -1,5 +1,5 @@
 public class Values {
-    private int values[] = {87, 99, 46, 75, 48, 88, 97, 85, 98, 74, -1, 79, 90};
+    private int values[] = {87, 99, 46, 75, 50, 88, 100, 85, 111, 74, -1, 79, 90};
     private int index = -1;
 
     public void resetIndex() { this.index = -1; }
