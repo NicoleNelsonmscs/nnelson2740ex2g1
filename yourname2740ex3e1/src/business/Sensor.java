@@ -1,5 +1,6 @@
 package business;
 
+import java.time.LocalDateTime;
 import java.util.ArrayList;
 
 public class Sensor {
@@ -51,5 +52,15 @@ public class Sensor {
         this.sensorReadings.add(
                 new SensorReading(nextSensorReadingIndex + 1001, this.sensorId, value));
         nextSensorReadingIndex++;
+    }
+
+    public void addSensorReading(float value, LocalDateTime dateTime) {
+        this.sensorReadings.add(
+                new SensorReading(nextSensorReadingIndex + 1001, this.sensorId, dateTime, value));
+        nextSensorReadingIndex++;
+    }
+
+    public ArrayList<SensorReading> getSensorReadings() {
+        return sensorReadings;
     }
 }
