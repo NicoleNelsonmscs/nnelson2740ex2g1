@@ -1,10 +1,12 @@
 package db;
 
 import business.Sensor;
+import business.SensorReading;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 import java.time.LocalDateTime;
+import java.util.ArrayList;
 
 import static org.junit.jupiter.api.Assertions.*;
 
@@ -28,5 +30,6 @@ class SensorReadingDBTest {
 
     @Test
     void getAll() {
+        assertEquals(5, SensorReadingDB.getAll(new ArrayList<SensorReading>()).size());
     }
 }
