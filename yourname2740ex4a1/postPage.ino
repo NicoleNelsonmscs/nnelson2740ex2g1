@@ -10,7 +10,7 @@ byte postPage(char* json)
 
     // send http header
     client.println("POST /api/sensorreadings HTTP/1.1");
-    client.println("Host: 204.77.51.249"); // or generate from your server variable to not hardwire
+    client.println("Host: 204.77.50.53"); // Don't change. Leave set to server address.
     client.println("User-Agent: Arduino/uno ethernet");
     client.println("Connection: close");
     client.println("Content-Type: application/json");
