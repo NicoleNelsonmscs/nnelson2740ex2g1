@@ -9,7 +9,7 @@ byte postPage(char* json)
     Serial.println("postPage() connected");
 
     // send http header
-    client.println("POST /api/sensorreadings HTTP/1.1");
+    client.println("POST /propertymonitor/api/sensorreadings HTTP/1.1");
     client.println("Host: 204.77.50.53"); // Don't change. Leave set to server address.
     client.println("User-Agent: Arduino/uno ethernet");
     client.println("Connection: close");
