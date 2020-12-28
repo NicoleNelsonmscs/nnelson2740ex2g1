@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/2740samp1/2740samp1.iml" filepath="$PROJECT_DIR$/2740samp1/2740samp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" filepath="$PROJECT_DIR$/2740sampCh02InvoiceApp/2740sampCh02InvoiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh03InvoiceApp/2740sampCh03InvoiceApp.iml" filepath="$PROJECT_DIR$/2740sampCh03InvoiceApp/2740sampCh03InvoiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh03InvoiceAppBigDec/2740sampCh03InvoiceAppBigDec.iml" filepath="$PROJECT_DIR$/2740sampCh03InvoiceAppBigDec/2740sampCh03InvoiceAppBigDec.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh04Loops/2740sampCh04Loops.iml" filepath="$PROJECT_DIR$/2740sampCh04Loops/2740sampCh04Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh05FutureValue/2740sampCh05FutureValue.iml" filepath="$PROJECT_DIR$/2740sampCh05FutureValue/2740sampCh05FutureValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh05GuessNumber/2740sampCh05GuessNumber.iml" filepath="$PROJECT_DIR$/2740sampCh05GuessNumber/2740sampCh05GuessNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh07LineItem/2740sampCh07LineItem.iml" filepath="$PROJECT_DIR$/2740sampCh07LineItem/2740sampCh07LineItem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh07Product/2740sampCh07Product.iml" filepath="$PROJECT_DIR$/2740sampCh07Product/2740sampCh07Product.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh11Arrays/2740sampCh11Arrays.iml" filepath="$PROJECT_DIR$/2740sampCh11Arrays/2740sampCh11Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh12InvoiceApp/2740sampCh12InvoiceApp.iml" filepath="$PROJECT_DIR$/2740sampCh12InvoiceApp/2740sampCh12InvoiceApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh15ProductTextFile/2740sampCh15ProductTextFile.iml" filepath="$PROJECT_DIR$/2740sampCh15ProductTextFile/2740sampCh15ProductTextFile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2740sampCh17FutureValueFXML/2740sampCh17FutureValueFXML.iml" filepath="$PROJECT_DIR$/2740sampCh17FutureValueFXML/2740sampCh17FutureValueFXML.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex1e1/yourname2740ex1e1.iml" filepath="$PROJECT_DIR$/yourname2740ex1e1/yourname2740ex1e1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex2f1/yourname2740ex2f1.iml" filepath="$PROJECT_DIR$/yourname2740ex2f1/yourname2740ex2f1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex2h1/yourname2740ex2h1.iml" filepath="$PROJECT_DIR$/yourname2740ex2h1/yourname2740ex2h1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex3a1/yourname2740ex3a1.iml" filepath="$PROJECT_DIR$/yourname2740ex3a1/yourname2740ex3a1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex3b1/yourname2740ex3b1.iml" filepath="$PROJECT_DIR$/yourname2740ex3b1/yourname2740ex3b1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yourname2740ex3e1/yourname2740ex3e1.iml" filepath="$PROJECT_DIR$/yourname2740ex3e1/yourname2740ex3e1.iml" />
+    </modules>
+  </component>
+</project>
